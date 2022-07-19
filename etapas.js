@@ -1,43 +1,43 @@
 let etapas = [
     {
         titulo: 'VEREADOR',
-        numeros: 5,
+        numeros: 4,
         candidatos: [
             {
-                numero: 38111,
+                numero: '38111',
                 nome: 'Fulano de Tal',
                 partido: 'PCC',
                 vice: 'Val',
                 fotos: [
-                    {url: '38111.jpg', legenda: 'Vereador'}
+                    {url: 'https://static.escolakids.uol.com.br/file/autoridades2.jpg', legenda: 'Vereador'}
                 ]
             },
             {
-                numero: 77222,
+                numero: '77222',
                 nome: 'Beltrano de Tal',
                 partido: 'PTCC',
                 vice: 'Gel',
                 fotos: [
-                    {url: '77222.jpg', legenda: 'Vereador'}
+                    {url: 'https://static.escolakids.uol.com.br/file/autoridades2.jpg', legenda: 'Vereador'}
                 ]
             }
         ]
     },
     {
         titulo: 'PREFEITO',
-        numeros: 2,
+        numeros: 1,
         candidatos: [
             {
-                numero: 38,
+                numero: '38',
                 nome: 'Fulano de Tal',
                 partido: 'PCDOB',
                 fotos: [
-                    {url: '38.jpg', legenda: 'Prefeito'},
-                    {url: '38_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: 'https://static.escolakids.uol.com.br/file/autoridades.jpg', legenda: 'Prefeito'},
+                    {url: 'https://static.escolakids.uol.com.br/file/autoridades2.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
-                numero: 77,
+                numero:'77',
                 nome: 'Beltrano de Tal',
                 partido: 'PCDOB',
                 fotos: [
